@@ -1,7 +1,3 @@
-# TwitterScraper_Tweepy_Academic
-Search and download tweets from Twitter using Tweepy and Twitter API v.2. The code is for those with an Academic Research Twitter Account, which has a limit of 10 million tweets a month and allows fully archive search back to March 2006.
-
-
 # Twitter Scraper
 
 Search and download tweets from Twitter using Tweepy and Twitter API v.2. The code works with Twitter API Academic Research Access, which has a limit of 10 million tweets a month and allows full archive search, back to March 2006.
